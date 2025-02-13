@@ -1,1 +1,1 @@
-# ViralAcademy-SMM-website-N-MP-OK-III
+[DEMO](https://panasiuknazar.github.io/ViralAcademy-SMM-website-N-MP-OK-III/)
