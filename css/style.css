@@ -36,6 +36,10 @@ h5 {
     text-transform: uppercase;
 }
 
+h6 {
+    margin-top: 15px;
+}
+
 a {
     font-family: "Hind", sans-serif;
     color: #5b84b1ff;
